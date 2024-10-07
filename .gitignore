@@ -1,1 +1,2 @@
-db.sqlite3
+# Ignore all PNG image files
+*.png
